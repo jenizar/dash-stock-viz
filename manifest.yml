@@ -1,0 +1,5 @@
+---
+applications:
+- name: dash-stock-viz
+  memory: 1024MB
+

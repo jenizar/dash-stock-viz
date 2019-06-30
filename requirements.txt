@@ -1,0 +1,5 @@
+flask
+dash
+pandas
+pandas_datareader
+plotly
